@@ -5,6 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 TOKEN = "8026261846:AAH1aZcNOVl5cgk6Dw5scGcDJakwQEVJHS0"
 ADMIN_ID = 1143938643
 ADMIN_ID = 964442694
+ADMIN_ID = 8244031255
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
